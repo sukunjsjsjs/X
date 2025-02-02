@@ -10,7 +10,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 bot = telebot.TeleBot('7270437364:AAHRP3WHVS2kpBX5tpBXPgUtMt4rzABuuNA')
 
 # Admin user IDs
-admin_id = ["5193826370"]
+admin_id = ["5993665056"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
